@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DAC00&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DAC00&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg
 
 <!--
 **rafaelpereiradev/rafaelpereiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
