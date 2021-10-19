@@ -4,7 +4,10 @@
 
 <a href="https://www.linkedin.com/in/rafael-pereira-924286a4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
- 📫 E-mail: rafaelpereira.dev@gmail.com <br><br>
+    
+  
+  <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p> <br><br>
+
 
 <!--
 **rafaelpereiradev/rafaelpereiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +23,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=synthwave)](https://github.com/rafaelpereiradev/github-readme-stats)
+
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=synthwave)](https://github.com/rafaelpereiradev/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiradev&theme=synthwave&layout=compact)](https://github.com/rafaelpereiradev/github-readme-stats)
+    
 <br><br>
 
 
