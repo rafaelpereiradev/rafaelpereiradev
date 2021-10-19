@@ -26,12 +26,13 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=synthwave)](https://github.com/rafaelpereiradev/github-readme-stats)
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=buefy)](https://github.com/rafaelpereiradev/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiradev&theme=synthwave&layout=compact)](https://github.com/rafaelpereiradev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiradev&theme=buefy&layout=compact)](https://github.com/rafaelpereiradev/github-readme-stats)
     
 <br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpereiradev&repo=javascript-estudos&theme=dark)](https://github.com/rafaelpereiradev/javascript-estudos)
 
 
 
