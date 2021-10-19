@@ -15,8 +15,14 @@
     <br>
 Formação :man_student:
 <ul>
-    <li>Faculdade Impacta Tecnologia - Redes de Computadores Formado(Dez/2019)</li>
+    <li>Faculdade Impacta Tecnologia - Redes de Computadores: Formado(Ago/2017 à Dez/2019)</li>
+    <li>Faculdades Integradas Campos Salles - Sistemas de Informação : (Jan/2016 à Jul/2017-trancada para ingressar na impacta)
+    <li>ETEC Caieiras - Informática para Internet: Formado(Jan/2014 à Dez/2015)</li>
 </ul>
+ Experiência
+    <ul>
+        <li>Iterative : Analista de Suporte e Infraestrutura - <b>meu emprego atual</b></li>
+    </ul>
 </details>
 
 
