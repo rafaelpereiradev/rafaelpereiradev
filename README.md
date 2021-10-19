@@ -11,8 +11,12 @@
   <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p>
 
 <details closed>
-    <summary><b>Resumo Profissional</b> :point_left: clique aqui :nerd_face: </summary>
-
+    <summary><b>Resumo Profissional</b> :point_left: (clique aqui) :nerd_face: </summary>
+    <br>
+Formação :man_student:
+<ul>
+    <li>Faculdade Impacta Tecnologia - Redes de Computadores Formado(Dez/2019)</li>
+</ul>
 </details>
 
 
