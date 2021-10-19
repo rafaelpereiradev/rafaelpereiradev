@@ -29,7 +29,7 @@
     </ul>
     <b>Certificações :newspaper_roll:</b>
     <ul>
-        <li>Microsoft : Azure Fundamentals Obtida em 06/2021</li>
+        <li>Microsoft : Azure Fundamentals Obtida em 06/2021 CREDENCIAL: https://www.credly.com/badges/2b09e0b8-8945-4b6d-b2da-6121dc729b6a?source=linked_in_profile</li>
     </ul>
 </details>
 
