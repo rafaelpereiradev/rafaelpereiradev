@@ -1,9 +1,11 @@
 ### Olá! Bem vindo ao meu perfil do GitHub!:<br>
-##### Atualmente estudando desenvolvimento web, e em busca de uma oportunidade de crescimento profissional.
-<h2>Contato:</h2>
+##### Atualmente estudando desenvolvimento web, e em busca de uma oportunidade de crescimento profissional.<br><br>
+
+<h2 align="center">Contato:</h2>
 
 <a href="https://www.linkedin.com/in/rafael-pereira-924286a4/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
+    <p align ="center">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></p></a><br><br>
     
   
   <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p> <br><br>
