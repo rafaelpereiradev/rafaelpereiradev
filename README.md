@@ -52,6 +52,7 @@ Segue minha Formação :man_student:
     
 <br><br>
  <h4>Esses são os repositórios que mais atuo no momento</h4>
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpereiradev&repo=javascript-estudos&theme=dark)](https://github.com/rafaelpereiradev/javascript-estudos)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpereiradev&repo=pair-programming&theme=dark)](https://github.com/rafaelpereiradev/pair-programming)
