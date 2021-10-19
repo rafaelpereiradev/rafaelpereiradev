@@ -1,13 +1,13 @@
 ### Olá! Bem vindo ao meu perfil do GitHub!:<br>
 ##### Atualmente estudando desenvolvimento web, e em busca de uma oportunidade de crescimento profissional.
-<a href="https://www.linkedin.com/in/rafael-pereira-924286a4/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+   
     
-   First Header | Second Header
+           Contato
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+<a href="https://www.linkedin.com/in/rafael-pereira-924286a4/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> | <- Meu Linkedin
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>| rafaelpereira.dev@gmail.com
 
 <!--
 **rafaelpereiradev/rafaelpereiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
