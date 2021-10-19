@@ -1,5 +1,5 @@
 ### Olá! Bem vindo ao meu perfil do GitHub!:<br>
-##### Entusiasta em busca de uma oportunidade na área de desenvolvimento.
+##### Atualmente estudando desenvolvimento web, e em busca de uma oportunidade de crescimento profissional.
 <a href="https://www.linkedin.com/in/rafael-pereira-924286a4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=synthwave)](https://github.com/rafaelpereiradev/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiradev&theme=chartreuse-dark)](https://github.com/rafaelpereiradev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiradev&theme=synthwave)](https://github.com/rafaelpereiradev/github-readme-stats)
 <br><br>
 
 
