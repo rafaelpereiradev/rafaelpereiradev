@@ -14,8 +14,8 @@
     <summary><b>Resumo Profissional</b> :point_left: (clique aqui) :nerd_face: </summary>
     <br>
     Olá meu nome é Rafael, tenho 28 anos e fiz esse perfil no GitHub para me envolver cada vez mais no mundo da programação!
-    Utilizo-o para me habituar com versionamento de código, e estou sempre aprendendo! As vezes quebro a cabeça mas quem nunca não é mesmo? rs
-    
+    Utilizo-o para me habituar com versionamento de código, e estou sempre aprendendo! As vezes quebro a cabeça mas quem nunca não é mesmo?
+    Para resumir, tentei deixar o mais claro possível o que venho estudado, e estou buscando migrar de área, (Suporte/Infra para DEV )por isso se você ver algum código fora da caixa, você já sabe que estou aprendendo =D , caso tenha interesse pode entrar em contato que estou a disposição para aprender e contribuir.
 Formação :man_student:
 <ul>
     <li>Faculdade Impacta Tecnologia - Redes de Computadores: Formado(Ago/2017 à Dez/2019)</li>
