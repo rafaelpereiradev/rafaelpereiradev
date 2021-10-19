@@ -8,10 +8,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></p></a>
     
   
-  <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p> <br><br>
+  <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p>
 
-<details closed><h3><summary>Resumo Profissional🤔</summary></h3>
-Well, you asked for it!
+<details closed>
+    <summary>Resumo Profissional🤔</summary>
+
 </details>
 
 
