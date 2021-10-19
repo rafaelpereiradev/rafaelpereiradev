@@ -11,7 +11,7 @@
   <p align="center"> 📫 <i><b>E-mail:</b> rafaelpereira.dev@gmail.com</i></p>
 
 <details closed>
-    <summary><b>Resumo Profissional</b> :point_left: (clique aqui) :nerd_face: </summary>
+    <summary><b>Resumo Profissional</b> :point_left: <b>(clique aqui)</b> :nerd_face: </summary>
     <br>
     Olá meu nome é Rafael, tenho 28 anos e fiz esse perfil no GitHub para <b>me envolver cada vez mais no mundo da programação!</b>
     Utilizo-o para me habituar com <b>versionamento de código</b>, e estou sempre aprendendo! As vezes quebro a cabeça mas quem nunca não é mesmo?:sweat_smile:
