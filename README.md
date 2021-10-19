@@ -10,7 +10,7 @@
   
   <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p> <br><br>
 
-<details closed><summary><h3>Resumo Profissional🤔</h3></summary>
+<details closed><h3><summary>Resumo Profissional🤔</summary></h3>
 Well, you asked for it!
 </details>
 
