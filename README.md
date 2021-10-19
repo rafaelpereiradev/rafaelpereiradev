@@ -1,5 +1,5 @@
-<h2 align="center">Olá, Bem vindo ao meu perfil do GitHub<h2>
-<h4 align="center">Atualmente estou estudando desenvolvimento web, e à disposição para novos desafios</h4>
+<h2 align="center">Olá, Bem vindo(a) ao meu perfil do GitHub 😄<h2>
+<h4 align="center">Atualmente estou estudando desenvolvimento web, e à disposição para novos desafios⚡</h4>
 
 <h2 align="center">Contato:</h2>
 
@@ -10,6 +10,10 @@
   
   <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p> <br><br>
 
+<details closed><summary><h3>Resumo Profissional🤔</h3></summary>
+Well, you asked for it!
+</details>
+
 
 <!--
 **rafaelpereiradev/rafaelpereiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +22,11 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+-  I’m looking for help with ...
 
   
 
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
