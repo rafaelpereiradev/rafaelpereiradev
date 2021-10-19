@@ -11,7 +11,7 @@
   <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p>
 
 <details closed>
-    <summary><b>Resumo Profissional</b>🤔</summary>
+    <summary><b>Resumo Profissional</b> :point_left: clique aqui :nerd_face: </summary>
 
 </details>
 
