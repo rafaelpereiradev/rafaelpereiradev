@@ -1,5 +1,5 @@
 <h2 align="center">Olá, Bem vindo(a) ao meu perfil do GitHub 😄<h2>
-<h4 align="center">Atualmente estou estudando desenvolvimento web, e à disposição para novos desafios⚡</h4>
+<h4 align="center">Atualmente estou estudando desenvolvimento com foco em JavaScript, e à disposição para novos desafios⚡</h4>
 
 <h2 align="center">Contato:</h2>
 
