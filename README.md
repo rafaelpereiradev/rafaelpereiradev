@@ -48,6 +48,7 @@ Segue minha Formação :man_student:
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=buefy)](https://github.com/rafaelpereiradev/github-readme-stats)
 
 <h4>Aqui estão as linguagens que mais utilizo nos meus projetos atuais</h4>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiradev&theme=buefy&layout=compact)](https://github.com/rafaelpereiradev/github-readme-stats)
     
 <br><br>
