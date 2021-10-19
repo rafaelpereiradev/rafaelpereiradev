@@ -3,8 +3,7 @@
 <a href="https://www.linkedin.com/in/rafael-pereira-924286a4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelpereira.dev@gmail.com)](mailto:rafaelpereira.dev@gmail.com)
-
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
 <!--
 **rafaelpereiradev/rafaelpereiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
