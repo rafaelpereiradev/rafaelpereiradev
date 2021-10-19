@@ -16,16 +16,20 @@
     Olá meu nome é Rafael, tenho 28 anos e fiz esse perfil no GitHub para <b>me envolver cada vez mais no mundo da programação!</b>
     Utilizo-o para me habituar com <b>versionamento de código</b>, e estou sempre aprendendo! As vezes quebro a cabeça mas quem nunca não é mesmo?:sweat_smile:
     Para resumir, tentei deixar o mais claro possível <b>o que venho estudado</b>, e estou buscando <b>migrar de área, (Suporte/Infra para DEV )</b> por isso se você ver algum código fora da caixa, você já sabe que estou aprendendo :baby: , caso tenha interesse pode entrar em contato que estou a disposição para aprender e contribuir:muscle:.<br><br>
-Segue minha Formação :man_student:
+<b>Segue minha Formação</b> :man_student:
 <ul>
     <li>Faculdade Impacta Tecnologia - Redes de Computadores: Formado(Ago/2017 à Dez/2019)</li>
     <li>Faculdades Integradas Campos Salles - Sistemas de Informação : trancado (Jan/2016 à Jul/2017)
     <li>ETEC Caieiras - Informática para Internet: Formado(Jan/2014 à Dez/2015)</li>
 </ul>
- Experiência
+<b> Experiência :older_man:</b>
     <ul>
         <li>Iterative : Analista de Suporte e Infraestrutura - <b>meu emprego atual</b></li>
         Fique a vontade para ver mais experiências, só clicar no botão do Linkedin =) :point_up:
+    </ul>
+    <b>Certificações :newspaper_roll:</b>
+    <ul>
+        <li>Microsoft : Azure Fundamentals Obtida em 06/2021</li>
     </ul>
 </details>
 
