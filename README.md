@@ -32,7 +32,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiradev&theme=buefy&layout=compact)](https://github.com/rafaelpereiradev/github-readme-stats)
     
 <br><br>
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpereiradev&repo=javascript-estudos&theme=dark)](https://github.com/rafaelpereiradev/javascript-estudos)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpereiradev&repo=pair-programming&theme=dark)](https://github.com/rafaelpereiradev/pair-programming)
 
 
 
