@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></p></a>
     
   
-  <p align="center"> 📫 E-mail: rafaelpereira.dev@gmail.com</p>
+  <p align="center"> 📫 <i><b>E-mail:</b> rafaelpereira.dev@gmail.com</i></p>
 
 <details closed>
     <summary><b>Resumo Profissional</b> :point_left: (clique aqui) :nerd_face: </summary>
