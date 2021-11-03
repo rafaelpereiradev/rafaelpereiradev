@@ -11,7 +11,7 @@
   <p align="center"> 📫 <i><b>E-mail:</b> rafaelpereira.dev@gmail.com</i></p>
 
 
-<!-- <details closed>
+<details closed>
     <summary><b>Resumo Profissional</b> :point_left: <b>(clique aqui)</b> :nerd_face: </summary>
     <br>
     
@@ -30,7 +30,7 @@
     <ul>
         <li>Microsoft : Azure Fundamentals Obtida em 06/2021 CREDENCIAL: https://www.credly.com/badges/2b09e0b8-8945-4b6d-b2da-6121dc729b6a?source=linked_in_profile</li>
     </ul>
-</details> -->
+</details>
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=buefy)](https://github.com/rafaelpereiradev/github-readme-stats)
 
