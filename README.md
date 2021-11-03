@@ -10,12 +10,11 @@
   
   <p align="center"> 📫 <i><b>E-mail:</b> rafaelpereira.dev@gmail.com</i></p>
 
-<details closed>
+
+<!-- <details closed>
     <summary><b>Resumo Profissional</b> :point_left: <b>(clique aqui)</b> :nerd_face: </summary>
     <br>
-    Olá meu nome é Rafael, tenho 28 anos e fiz esse perfil no GitHub para <b>me envolver cada vez mais no mundo da programação!</b>
-    Utilizo-o para me habituar com <b>versionamento de código</b>, e estou sempre aprendendo! As vezes quebro a cabeça mas quem nunca não é mesmo?:sweat_smile:
-    Para resumir, tentei deixar o mais claro possível <b>o que venho estudado</b>, e estou buscando <b>migrar de área, (Suporte/Infra para DEV )</b> por isso se você ver algum código fora da caixa, você já sabe que estou aprendendo :baby: , caso tenha interesse pode entrar em contato que estou a disposição para aprender e contribuir:muscle:.<br><br>
+    
 <b>Segue minha Formação</b> :man_student:
 <ul>
     <li>Faculdade Impacta Tecnologia - Redes de Computadores: Formado(Ago/2017 à Dez/2019)</li>
@@ -24,15 +23,14 @@
 </ul>
 <b> Experiência :older_man:</b>
     <ul>
-        <li>Iterative : Analista de Suporte e Infraestrutura - <b>meu emprego atual</b></li>
+        <li>Iterative : Analista de Suporte e Infraestrutura - <b>atual</b></li>
         Fique a vontade para ver mais experiências, só clicar no botão do Linkedin =) :point_up:
     </ul>
     <b>Certificações :newspaper_roll:</b>
     <ul>
         <li>Microsoft : Azure Fundamentals Obtida em 06/2021 CREDENCIAL: https://www.credly.com/badges/2b09e0b8-8945-4b6d-b2da-6121dc729b6a?source=linked_in_profile</li>
     </ul>
-</details>
-
+</details> -->
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereiradev&theme=buefy)](https://github.com/rafaelpereiradev/github-readme-stats)
 
