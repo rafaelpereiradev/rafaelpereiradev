@@ -1,5 +1,5 @@
 <h2 align="center">Olá, Bem vindo(a) ao meu perfil do GitHub 😄<h2>
-<h4 align="center">Atualmente estudando desenvolvimento com foco em JavaScript, estudando também Microsoft Azure:cloud:</h4>
+<h4 align="center">Atualmente estudando desenvolvimento com foco em JavaScript</h4>
 
 <h2 align="center">Contato:</h2>
 
@@ -29,6 +29,7 @@
     <b>Certificações :newspaper_roll:</b>
     <ul>
         <li>Microsoft : Azure Fundamentals Obtida em 06/2021 CREDENCIAL: https://www.credly.com/badges/2b09e0b8-8945-4b6d-b2da-6121dc729b6a?source=linked_in_profile</li>
+        <li>Estudando para o exame AZ-104💪</li>
     </ul>
 </details>
 
