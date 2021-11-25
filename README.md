@@ -1,5 +1,5 @@
 <h2 align="center">Olá, Bem vindo(a) ao meu perfil do GitHub 😄<h2>
-<h4 align="center">Atualmente estudando desenvolvimento com foco em JavaScript, aprendendo sobre Azure, e Google Cloud⚡</h4>
+<h4 align="center">Atualmente estudando desenvolvimento com foco em JavaScript, estudando também Microsoft Azure:cloud:</h4>
 
 <h2 align="center">Contato:</h2>
 
