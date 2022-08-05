@@ -23,7 +23,7 @@
 </ul>
 <b> Experiência :older_man:</b>
     <ul>
-        <li>Iterative : Analista de Suporte e Infraestrutura - <b>atual</b></li>
+        <li>Accenture Song : Digital Tech Developer Analyst - <b>atual</b></li>
         Fique a vontade para ver mais experiências, só clicar no botão do Linkedin =) :point_up:
     </ul>
     <b>Certificações :newspaper_roll:</b>
