@@ -1,7 +1,7 @@
 <h2 align="center">Olá, Bem vindo(a) ao meu perfil do GitHub 😄<h2>
 <!-- <h4 align="center">Desenvolvedor FullStack</h4> -->
 
-<h2 align="center">Contato:</h2>
+
 
 <a href="https://www.linkedin.com/in/rafael-pereira-924286a4/">
     <p align ="center">
