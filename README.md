@@ -1,4 +1,4 @@
-<h2 align="center">Olá, Bem vindo(a) ao meu perfil do GitHub 😄</h2>
+<h2 align="center">Olá, bem vindo(a) ao meu perfil do GitHub 😄</h2>
 <!-- <h4 align="center">Desenvolvedor FullStack</h4> -->
 
 
