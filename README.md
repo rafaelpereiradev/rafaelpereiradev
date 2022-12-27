@@ -9,27 +9,27 @@
     
   
   <p align="center"> 📫 <i><b>E-mail:</b> rafaelpereira.dev@gmail.com</i></p>
-
-
 <details closed>
     <summary><b>Resumo Profissional</b> :point_left: <b>(clique aqui)</b> :nerd_face: </summary>
     <br>
-    
-<b>Segue minha Formação</b> :man_student:
-<ul>
-    <li>Faculdade Impacta Tecnologia - Redes de Computadores: Formado(Ago/2017 à Dez/2019)</li>
-    <li>Faculdades Integradas Campos Salles - Sistemas de Informação : trancado (Jan/2016 à Jul/2017)
-    <li>ETEC Caieiras - Informática para Internet: Formado(Jan/2014 à Dez/2015)</li>
-</ul>
 <b> Experiência :older_man:</b>
     <ul>
         <li>Accenture Song : Digital Tech Developer Analyst - <b>atual</b></li>
         Fique a vontade para ver mais experiências, só clicar no botão do Linkedin =) :point_up:
     </ul>
-    <b>Certificações :newspaper_roll:</b>
+    
+
+    
+<b>Formação</b> :man_student:
+<ul>
+    <li>Faculdade Impacta Tecnologia - Redes de Computadores: Formado(Ago/2017 à Dez/2019)</li>
+    <li>Faculdades Integradas Campos Salles - Sistemas de Informação : trancado (Jan/2016 à Jul/2017)
+    <li>ETEC Caieiras - Informática para Internet: Formado(Jan/2014 à Dez/2015)</li>
+</ul>
+
+    <b>Certificações</b>
     <ul>
         <li>Microsoft : Azure Fundamentals Obtida em 06/2021 CREDENCIAL: https://www.credly.com/badges/2b09e0b8-8945-4b6d-b2da-6121dc729b6a?source=linked_in_profile</li>
-        <li>Estudando para o exame AZ-104💪</li>
     </ul>
 </details>
 
